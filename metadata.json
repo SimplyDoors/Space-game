@@ -1,0 +1,5 @@
+{
+  "name": "Space Mario 2.5D",
+  "description": "A 2.5D side-scrolling space platformer with Three.js",
+  "requestFramePermissions": []
+}
